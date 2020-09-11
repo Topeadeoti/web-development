@@ -1,0 +1,32 @@
+
+.demo{
+    color: red;
+    font-size:15px;
+    
+}
+
+ .demo1{
+    color:green;
+} 
+#demo2{
+    color:blue;
+    padding:30px;
+
+}
+#demo3{
+    color:black;
+    font-size:50px;
+    font-family:Algerian;
+    background-color:red
+}
+    
+body{
+    background-color:orange;
+    background-image:url("../images/banner/banner.jpg");
+    margin:50px;
+    
+}
+
+.para3{
+    color:orangered;
+}
